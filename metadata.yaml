@@ -1,5 +1,8 @@
 _repo: Memories-of-a-Hostess-A-Chronicle-of-Eminent-Friendships-Drawn-Chiefly-from-the-Diaries-of-Mr__62867
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62867-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Fields, Annie
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52165
     wikipedia: https://en.wikipedia.org/wiki/Mark_Antony_De_Wolfe_Howe_(writer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62867#Memories-of-a-Hostess-A-Chronicle-of-Eminent-Friendships-Drawn-Chiefly-from-the-Diaries-of-Mr_
 gutenberg_issued: '2020-08-06'
 gutenberg_type: Text
 identifiers:
